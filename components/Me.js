@@ -11,7 +11,7 @@ function Me() {
               height={50}
               width={150}
               className={"bg-white p-1 rounded-full"}
-              src="/../public/images/profile.jpg"
+              src="/images/profile.jpg"
             />
           </div>
         </div>

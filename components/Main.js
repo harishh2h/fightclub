@@ -19,14 +19,14 @@ function Main() {
       className="w-full flex justify-center items-center h-screen text-center"
     >
       <div className="absolute left-[0%] top-[40%] md:left-[8%] md:top-[40%]  ease-in duration-500 ">
-        <Image src={"/../public/images/soap.png"} width={100} height={250} />
+        <Image src={"/images/soap.png"} width={100} height={250} />
       </div>
 
       <div className=" absolute left-[50%] top-[14%] md:left-[85%] md:top-[30%] scale-120 ease-in duration-500 ">
-        <Image src={"/../public/images/soap.png"} width={100} height={250} />
+        <Image src={"/images/soap.png"} width={100} height={250} />
       </div>
       <div className=" absolute right-[20%] top-[78%] md:left-[65%] md:top-[75%] scale-105  ease-in duration-500 ">
-        <Image src={"/../public/images/soap.png"} width={100} height={250} />
+        <Image src={"/images/soap.png"} width={100} height={250} />
       </div>
 
       <div className="flex w-full h-screen justify-center items-center  ">

@@ -13,7 +13,7 @@ function YouOkay() {
               height={150}
               width={150}
               // className={"bg-white p-1 rounded-full"}
-              src="/../public/images/tyler.png"
+              src="/images/tyler.png"
             />
           </div>
           <div className="swap-off ">
@@ -21,7 +21,7 @@ function YouOkay() {
               height={250}
               width={150}
               // className={"bg-white p-1 rounded-full"}
-              src="/../public/images/narrator.png"
+              src="/images/narrator.png"
             />
           </div>
         </label>
