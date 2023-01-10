@@ -19,6 +19,9 @@ export default function Home() {
   const [navbarOpen, setNavbarOpen] = useState(false);
   return (
     <>
+      <Head>
+        <title>Tyler Durden</title>
+      </Head>
       <Navbar />
       <Main />
       <Soap id={"soap"} />
