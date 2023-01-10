@@ -10,7 +10,7 @@ import {
   AiOutlineWhatsApp,
 } from "react-icons/ai";
 
-export default function navbar() {
+export default function Navbar() {
   const [NavMenu, SetNavMenu] = useState(false);
 
   const navhandler = () => {

@@ -53,6 +53,7 @@ function YouOkay() {
             ></img>
             <div className="modal-action">
               <a
+                rel="noopener noreferrer"
                 target="_blank"
                 href="https://www.youtube.com/watch?v=nHKlfGq3bOA"
                 className="btn"

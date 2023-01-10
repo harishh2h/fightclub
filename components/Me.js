@@ -24,7 +24,11 @@ function Me() {
           </p>
         </div>
         <button className="btn my-2">
-          <a target="_blank" href="https://www.instagram.com/h2htech/">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://www.instagram.com/h2htech/"
+          >
             Message
           </a>
         </button>
